@@ -1,7 +1,0 @@
-.env
-__pycache__/
-*.pyc
-output/
-data/
-markdown/
-在线提取的mineru/
